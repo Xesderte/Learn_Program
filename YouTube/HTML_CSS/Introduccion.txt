@@ -1,0 +1,18 @@
+DESARROLLO DE CAPACIDAD LOGICA
+HMTL
+    -Crea estrucutura y elementos.
+    -Lenguaje de Marcado e Hypertexto
+     El objetivo de los leguajes de marcado es que sea lea el texto 
+     y este se interpreatado, por otro programa.
+    -Con HTML armamos la estrucutura de la pagina WEB
+    -Se crean ekementos que funcionan como tags y etiquetas.
+    -
+CSS
+    -Modifica estos elemntos, diseño y animaciones.
+    -Se usa para aplicar propiedades a todos los disitintos tipos
+     de navegadores, para que estos los entiendan.
+    -Establece estanderes, para que los navegadores las puedan cumplir
+    -Nos ayuda a aplicar modificaciones a cada elemento.
+    -APRENDER DE COMO SELECCIONAR ELEMENTOS.
+    -RESPONSIVE DESING
+    
