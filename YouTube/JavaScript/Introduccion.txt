@@ -1,0 +1,27 @@
+0) Introducción - ¿Qué es JavaScript?
+
+    -Lenguaje de programacion
+    - Interpretado
+    -Orientado a Objetos
+    -Imperativo
+    -CAse sensitive (Upper and Lower)
+    -Basado en prototipos / instancias / classless
+    -Tipado Debil
+    -Lenguaje Dinamico
+
+    -ECMASCRIPT(5.1 y 6, 7, 8, Next)
+
+1) Editor de Texto
+
+    -Personalizar Sublime Text 3
+                    *Install Package Control
+                    *Set UI
+                    *Color Scheme (Brogammer)
+                    *ColorHelper
+                    *ColorPicker
+    -Otras opciones(VSC, Atom)
+
+2)¿Para que se usa?
+
+        -Dinamismo de los sitios web
+        -
